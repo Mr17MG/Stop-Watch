@@ -3,7 +3,6 @@
         <file>main.qml</file>
         <file>Functions.qml</file>
         <file>images/Full_Screen.png</file>
-        <file>qtquickcontrols2.conf</file>
         <file>fonts/digital-7.regular.ttf</file>
         <file>fonts/Far_Adab.ttf</file>
         <file>fonts/Far_Curves.ttf</file>

@@ -1,7 +1,7 @@
 // ByteBau (Jörn Buchholz) @bytebau.com
 
-import QtQuick 2.0
-import QtQml 2.2
+import QtQuick 2.15
+import QtQml 2.15
 
 Item {
     id: root

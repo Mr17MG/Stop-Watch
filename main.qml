@@ -1,7 +1,7 @@
-import QtQuick 2.9
-import QtQuick.Window 2.11
-import QtQuick.Controls 2.4
-import QtQuick.Controls.Material 2.3
+import QtQuick 2.15
+import QtQuick.Window 2.15
+import QtQuick.Controls 2.15
+import QtQuick.Controls.Material 2.15
 
 Window {
     id:window
@@ -70,7 +70,7 @@ Window {
             }
         }
         TimeCounter{
-            //ارايه
+            //ارائه
             id:presentation
             visible: tabBar.currentIndex===1
             minute: 5
